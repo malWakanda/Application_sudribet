@@ -1,0 +1,6 @@
+com.example.sudribet.test-tracing-1.2.0-0 /Users/expertjulian/.gradle/caches/9.0.0/transforms/4b195e8e505800f87de411661ef28155/transformed/tracing-1.2.0/res
+com.example.sudribet.test-core-1.6.1-1 /Users/expertjulian/.gradle/caches/9.0.0/transforms/797e04b2169dc0f435f302c263ed9beb/transformed/core-1.6.1/res
+com.example.sudribet.test-androidTest-2 /Users/expertjulian/Desktop/ESME_2025-2026/application_mobile/app/build/generated/res/resValues/androidTest/debug
+com.example.sudribet.test-mergeDebugAndroidTestResources-3 /Users/expertjulian/Desktop/ESME_2025-2026/application_mobile/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.sudribet.test-mergeDebugAndroidTestResources-4 /Users/expertjulian/Desktop/ESME_2025-2026/application_mobile/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.sudribet.test-debugAndroidTest-5 /Users/expertjulian/Desktop/ESME_2025-2026/application_mobile/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

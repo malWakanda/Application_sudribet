@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">162682282495</string>
+    <string name="google_api_key" translatable="false">AIzaSyDj7TtxENin9AiynKdfNGJrkmUcwUS8_so</string>
+    <string name="google_app_id" translatable="false">1:162682282495:android:acb2a7c2f00dc46a2fc7ca</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDj7TtxENin9AiynKdfNGJrkmUcwUS8_so</string>
+    <string name="google_storage_bucket" translatable="false">sudribet.firebasestorage.app</string>
+    <string name="project_id" translatable="false">sudribet</string>
+</resources>
