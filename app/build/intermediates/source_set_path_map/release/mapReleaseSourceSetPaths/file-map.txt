@@ -1,0 +1,71 @@
+com.example.sudribet.app-core-runtime-2.2.0-0 /Users/expertjulian/.gradle/caches/9.0.0/transforms/00103d7d766553a3179ca16a548678dd/transformed/core-runtime-2.2.0/res
+com.example.sudribet.app-material-1.12.0-1 /Users/expertjulian/.gradle/caches/9.0.0/transforms/054fea6eceb56f9b7cfa3f197831b9d9/transformed/material-1.12.0/res
+com.example.sudribet.app-lottie-6.4.0-2 /Users/expertjulian/.gradle/caches/9.0.0/transforms/076c6007e8c89f680b766193404a963a/transformed/lottie-6.4.0/res
+com.example.sudribet.app-tracing-1.2.0-3 /Users/expertjulian/.gradle/caches/9.0.0/transforms/1827a66ba9b20bcd07e7c5f8ab27c1b2/transformed/tracing-1.2.0/res
+com.example.sudribet.app-play-services-base-18.5.0-4 /Users/expertjulian/.gradle/caches/9.0.0/transforms/18cd3cb39acd287733c25e6f8973118a/transformed/play-services-base-18.5.0/res
+com.example.sudribet.app-play-services-basement-18.9.0-5 /Users/expertjulian/.gradle/caches/9.0.0/transforms/1d2593e499a87c26b42732710a2aece0/transformed/play-services-basement-18.9.0/res
+com.example.sudribet.app-activity-1.9.3-6 /Users/expertjulian/.gradle/caches/9.0.0/transforms/29c259fade96e61daaee57f5a31f305f/transformed/activity-1.9.3/res
+com.example.sudribet.app-constraintlayout-2.2.0-7 /Users/expertjulian/.gradle/caches/9.0.0/transforms/2daf584f79b317b9ac4058c75b563aab/transformed/constraintlayout-2.2.0/res
+com.example.sudribet.app-runtime-saveable-release-8 /Users/expertjulian/.gradle/caches/9.0.0/transforms/33f13af08715ad6f5e1b0b85928c59ac/transformed/runtime-saveable-release/res
+com.example.sudribet.app-fragment-1.5.4-9 /Users/expertjulian/.gradle/caches/9.0.0/transforms/34fb21c1291ae91ed43a4fa8c169342a/transformed/fragment-1.5.4/res
+com.example.sudribet.app-customview-poolingcontainer-1.0.0-10 /Users/expertjulian/.gradle/caches/9.0.0/transforms/36e289b7f22e3481e0533605e79f361f/transformed/customview-poolingcontainer-1.0.0/res
+com.example.sudribet.app-startup-runtime-1.1.1-11 /Users/expertjulian/.gradle/caches/9.0.0/transforms/388e25894e4696bccc14897f97b3fece/transformed/startup-runtime-1.1.1/res
+com.example.sudribet.app-ui-unit-release-12 /Users/expertjulian/.gradle/caches/9.0.0/transforms/41df1519a0412386c1ca598d65d980b7/transformed/ui-unit-release/res
+com.example.sudribet.app-viewpager2-1.0.0-13 /Users/expertjulian/.gradle/caches/9.0.0/transforms/439479a3f49ad28e81603ed2b10b2fc3/transformed/viewpager2-1.0.0/res
+com.example.sudribet.app-ads-adservices-1.1.0-beta11-14 /Users/expertjulian/.gradle/caches/9.0.0/transforms/46895a90dd9db7db10239955f0d0c477/transformed/ads-adservices-1.1.0-beta11/res
+com.example.sudribet.app-activity-compose-1.9.3-15 /Users/expertjulian/.gradle/caches/9.0.0/transforms/49145cd5ee8fa0e816cd3ed77217a23f/transformed/activity-compose-1.9.3/res
+com.example.sudribet.app-datastore-preferences-core-release-16 /Users/expertjulian/.gradle/caches/9.0.0/transforms/498986f75b0ca88c22c304ae88e09887/transformed/datastore-preferences-core-release/res
+com.example.sudribet.app-lifecycle-process-2.8.7-17 /Users/expertjulian/.gradle/caches/9.0.0/transforms/4f02517707e3c1033e788066e4063fb0/transformed/lifecycle-process-2.8.7/res
+com.example.sudribet.app-datastore-preferences-release-18 /Users/expertjulian/.gradle/caches/9.0.0/transforms/5fdf27e0b0349200014be0ca785aa528/transformed/datastore-preferences-release/res
+com.example.sudribet.app-emoji2-views-helper-1.3.0-19 /Users/expertjulian/.gradle/caches/9.0.0/transforms/5fffafefd5545584c56f2e205784ae8e/transformed/emoji2-views-helper-1.3.0/res
+com.example.sudribet.app-activity-ktx-1.9.3-20 /Users/expertjulian/.gradle/caches/9.0.0/transforms/60be0b8a162623e38b8f154b3c3fc876/transformed/activity-ktx-1.9.3/res
+com.example.sudribet.app-ui-tooling-preview-release-21 /Users/expertjulian/.gradle/caches/9.0.0/transforms/6899962e4ecdaaedc8344ede48ef9be3/transformed/ui-tooling-preview-release/res
+com.example.sudribet.app-recyclerview-1.1.0-22 /Users/expertjulian/.gradle/caches/9.0.0/transforms/690065c4d5f02969f95c510b5190da05/transformed/recyclerview-1.1.0/res
+com.example.sudribet.app-core-ktx-1.15.0-23 /Users/expertjulian/.gradle/caches/9.0.0/transforms/6b5266618967c72cbeb129b8bdac5845/transformed/core-ktx-1.15.0/res
+com.example.sudribet.app-core-1.15.0-24 /Users/expertjulian/.gradle/caches/9.0.0/transforms/6d54f4ba2048e26823e1f4a83ee1b9ec/transformed/core-1.15.0/res
+com.example.sudribet.app-datastore-release-25 /Users/expertjulian/.gradle/caches/9.0.0/transforms/70b370c57a1944b48563366d11fd5692/transformed/datastore-release/res
+com.example.sudribet.app-savedstate-ktx-1.2.1-26 /Users/expertjulian/.gradle/caches/9.0.0/transforms/74a1ddd631ef2cee09531392ff740bd7/transformed/savedstate-ktx-1.2.1/res
+com.example.sudribet.app-firebase-common-22.0.1-27 /Users/expertjulian/.gradle/caches/9.0.0/transforms/78cf40e1f0524aa01149cd62f4eb02ca/transformed/firebase-common-22.0.1/res
+com.example.sudribet.app-runtime-release-28 /Users/expertjulian/.gradle/caches/9.0.0/transforms/7a0fe16a7d20664be7fc2e3f81544264/transformed/runtime-release/res
+com.example.sudribet.app-lifecycle-livedata-2.8.7-29 /Users/expertjulian/.gradle/caches/9.0.0/transforms/7f25ad910b1ef3ba8133b55698280f42/transformed/lifecycle-livedata-2.8.7/res
+com.example.sudribet.app-animation-core-release-30 /Users/expertjulian/.gradle/caches/9.0.0/transforms/7ff070bd3abffb4f2f4e01437904e3ab/transformed/animation-core-release/res
+com.example.sudribet.app-material-icons-core-release-31 /Users/expertjulian/.gradle/caches/9.0.0/transforms/807d4a65d2197d25feb9facc5005fdca/transformed/material-icons-core-release/res
+com.example.sudribet.app-foundation-release-32 /Users/expertjulian/.gradle/caches/9.0.0/transforms/8404b7e316a21d512393a68b13fe8d2d/transformed/foundation-release/res
+com.example.sudribet.app-ui-release-33 /Users/expertjulian/.gradle/caches/9.0.0/transforms/88a7494e661cc6856af98fff83af36d6/transformed/ui-release/res
+com.example.sudribet.app-savedstate-1.2.1-34 /Users/expertjulian/.gradle/caches/9.0.0/transforms/8e7515090e733dbf20a27a8e41a1c6ed/transformed/savedstate-1.2.1/res
+com.example.sudribet.app-ui-text-release-35 /Users/expertjulian/.gradle/caches/9.0.0/transforms/8f205c053416d71b3033d4cb2ff6059d/transformed/ui-text-release/res
+com.example.sudribet.app-datastore-core-release-36 /Users/expertjulian/.gradle/caches/9.0.0/transforms/8fd7928c5303f2ed9c0885959a002410/transformed/datastore-core-release/res
+com.example.sudribet.app-material-ripple-release-37 /Users/expertjulian/.gradle/caches/9.0.0/transforms/900cf61e8121d3e140665c0acb16b294/transformed/material-ripple-release/res
+com.example.sudribet.app-annotation-experimental-1.4.1-38 /Users/expertjulian/.gradle/caches/9.0.0/transforms/90c27973cd1d12b379e38ac3f4706878/transformed/annotation-experimental-1.4.1/res
+com.example.sudribet.app-foundation-layout-release-39 /Users/expertjulian/.gradle/caches/9.0.0/transforms/93f454edb00ad96c154aa98dfb73148d/transformed/foundation-layout-release/res
+com.example.sudribet.app-ui-geometry-release-40 /Users/expertjulian/.gradle/caches/9.0.0/transforms/9ff5cd4e5092688dc1a8b5b6d6e78e1d/transformed/ui-geometry-release/res
+com.example.sudribet.app-lifecycle-runtime-ktx-release-41 /Users/expertjulian/.gradle/caches/9.0.0/transforms/a452ac0d03dae66b4e61bd64c29b7447/transformed/lifecycle-runtime-ktx-release/res
+com.example.sudribet.app-emoji2-1.3.0-42 /Users/expertjulian/.gradle/caches/9.0.0/transforms/b23c33ad7d0357b541c9a8c276aaacd4/transformed/emoji2-1.3.0/res
+com.example.sudribet.app-drawerlayout-1.1.1-43 /Users/expertjulian/.gradle/caches/9.0.0/transforms/b413d12dfda57ae6237c6bc0da127b74/transformed/drawerlayout-1.1.1/res
+com.example.sudribet.app-lifecycle-runtime-compose-release-44 /Users/expertjulian/.gradle/caches/9.0.0/transforms/b4ab55781a1dc252d5f45d3dbe759565/transformed/lifecycle-runtime-compose-release/res
+com.example.sudribet.app-animation-release-45 /Users/expertjulian/.gradle/caches/9.0.0/transforms/b5862aef97a0677f941033f26d84e36c/transformed/animation-release/res
+com.example.sudribet.app-profileinstaller-1.4.0-46 /Users/expertjulian/.gradle/caches/9.0.0/transforms/b9d1696373c5c4a121a2084f89a17824/transformed/profileinstaller-1.4.0/res
+com.example.sudribet.app-material3-release-47 /Users/expertjulian/.gradle/caches/9.0.0/transforms/bb65ec031ced8b3aba58dd00c5fe1f1a/transformed/material3-release/res
+com.example.sudribet.app-ads-adservices-java-1.1.0-beta11-48 /Users/expertjulian/.gradle/caches/9.0.0/transforms/c01bec87e6bd16439de2ffe7e9c5e782/transformed/ads-adservices-java-1.1.0-beta11/res
+com.example.sudribet.app-lifecycle-viewmodel-savedstate-2.8.7-49 /Users/expertjulian/.gradle/caches/9.0.0/transforms/c37fe6a8a6f796208ed58923c8ab2027/transformed/lifecycle-viewmodel-savedstate-2.8.7/res
+com.example.sudribet.app-ui-graphics-release-50 /Users/expertjulian/.gradle/caches/9.0.0/transforms/c719b18fd538ff6513bf870bcbb3d865/transformed/ui-graphics-release/res
+com.example.sudribet.app-appcompat-resources-1.7.0-51 /Users/expertjulian/.gradle/caches/9.0.0/transforms/c74958113440bf7aac5d5d6b1cc5bcdd/transformed/appcompat-resources-1.7.0/res
+com.example.sudribet.app-transition-1.5.0-52 /Users/expertjulian/.gradle/caches/9.0.0/transforms/cdf9ecb8eaa2c6de23affc35af93db2a/transformed/transition-1.5.0/res
+com.example.sudribet.app-lifecycle-viewmodel-release-53 /Users/expertjulian/.gradle/caches/9.0.0/transforms/d08c09d619ea4f7ef104edfd6bd7e479/transformed/lifecycle-viewmodel-release/res
+com.example.sudribet.app-appcompat-1.7.0-54 /Users/expertjulian/.gradle/caches/9.0.0/transforms/e0a0298899801759b81044e093068531/transformed/appcompat-1.7.0/res
+com.example.sudribet.app-ui-util-release-55 /Users/expertjulian/.gradle/caches/9.0.0/transforms/e8859cd55a663e3dcc58d5492ea65327/transformed/ui-util-release/res
+com.example.sudribet.app-lifecycle-viewmodel-ktx-2.8.7-56 /Users/expertjulian/.gradle/caches/9.0.0/transforms/ebfa6d17151af4acd1c7e6974da1c0b0/transformed/lifecycle-viewmodel-ktx-2.8.7/res
+com.example.sudribet.app-lifecycle-livedata-core-ktx-2.8.7-57 /Users/expertjulian/.gradle/caches/9.0.0/transforms/f36035f0763db41ae84505cf0d65db79/transformed/lifecycle-livedata-core-ktx-2.8.7/res
+com.example.sudribet.app-coordinatorlayout-1.1.0-58 /Users/expertjulian/.gradle/caches/9.0.0/transforms/f8ac8ac29110793f0a3f08278ce7488e/transformed/coordinatorlayout-1.1.0/res
+com.example.sudribet.app-lifecycle-runtime-release-59 /Users/expertjulian/.gradle/caches/9.0.0/transforms/f956b93e70cad56476239d0154b698ad/transformed/lifecycle-runtime-release/res
+com.example.sudribet.app-graphics-path-1.0.1-60 /Users/expertjulian/.gradle/caches/9.0.0/transforms/f9cb1fb2789c4e35b27aaa7eeafc00c2/transformed/graphics-path-1.0.1/res
+com.example.sudribet.app-cardview-1.0.0-61 /Users/expertjulian/.gradle/caches/9.0.0/transforms/fc1001cefc7d743468cb5cce5200dd73/transformed/cardview-1.0.0/res
+com.example.sudribet.app-lifecycle-livedata-core-2.8.7-62 /Users/expertjulian/.gradle/caches/9.0.0/transforms/fdb3ce888a9d319d3522e6f323d18ea0/transformed/lifecycle-livedata-core-2.8.7/res
+com.example.sudribet.app-pngs-63 /Users/expertjulian/Desktop/ESME 2025-2026/ESME_2025-2026/application_mobile/app/build/generated/res/pngs/release
+com.example.sudribet.app-res-64 /Users/expertjulian/Desktop/ESME 2025-2026/ESME_2025-2026/application_mobile/app/build/generated/res/processReleaseGoogleServices
+com.example.sudribet.app-resValues-65 /Users/expertjulian/Desktop/ESME 2025-2026/ESME_2025-2026/application_mobile/app/build/generated/res/resValues/release
+com.example.sudribet.app-packageReleaseResources-66 /Users/expertjulian/Desktop/ESME 2025-2026/ESME_2025-2026/application_mobile/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.example.sudribet.app-packageReleaseResources-67 /Users/expertjulian/Desktop/ESME 2025-2026/ESME_2025-2026/application_mobile/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.example.sudribet.app-release-68 /Users/expertjulian/Desktop/ESME 2025-2026/ESME_2025-2026/application_mobile/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.example.sudribet.app-main-69 /Users/expertjulian/Desktop/ESME 2025-2026/ESME_2025-2026/application_mobile/app/src/main/res
+com.example.sudribet.app-release-70 /Users/expertjulian/Desktop/ESME 2025-2026/ESME_2025-2026/application_mobile/app/src/release/res

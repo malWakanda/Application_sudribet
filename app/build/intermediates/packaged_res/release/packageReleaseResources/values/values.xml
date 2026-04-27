@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_blue">#001122</color>
+    <color name="black">#FF000000</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_bg_dark">#1E1E1E</color>
+    <color name="divider_color">#EEEEEE</color>
+    <color name="divider_color_dark">#2C2C2C</color>
+    <color name="glass_border">#44FFFFFF</color>
+    <color name="glass_white">#22FFFFFF</color>
+    <color name="neon_green">#39FF14</color>
+    <color name="neon_red">#FF3131</color>
+    <color name="primary">#ff7941</color>
+    <color name="primary_dark">#d45d2e</color>
+    <color name="surface_bg">#F5F5F5</color>
+    <color name="surface_bg_dark">#121212</color>
+    <color name="surface_darker">#0A0A0A</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_secondary_dark">#AAAAAA</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Sudribet</string>
+    <string name="back_button_desc">Retour</string>
+    <string name="change_avatar_desc">Changer l\'avatar</string>
+    <string name="delete_account_label">Supprimer mon compte</string>
+    <string name="edit_profile_title">ÉDITER MON PROFIL</string>
+    <string name="email_hint">Email</string>
+    <string name="gcm_defaultSenderId" translatable="false">162682282495</string>
+    <string name="google_api_key" translatable="false">AIzaSyDj7TtxENin9AiynKdfNGJrkmUcwUS8_so</string>
+    <string name="google_app_id" translatable="false">1:162682282495:android:acb2a7c2f00dc46a2fc7ca</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDj7TtxENin9AiynKdfNGJrkmUcwUS8_so</string>
+    <string name="google_storage_bucket" translatable="false">sudribet.firebasestorage.app</string>
+    <string name="newsletter_label">Newsletter Offres Spéciales</string>
+    <string name="personal_info_header">INFORMATIONS PERSONNELLES</string>
+    <string name="preferences_header">PRÉFÉRENCES</string>
+    <string name="profile_avatar_desc">Avatar du profil</string>
+    <string name="project_id" translatable="false">sudribet</string>
+    <string name="save_profile_button">ENREGISTRER LE PROFIL</string>
+    <string name="score_notifications_label">Notifications de scores</string>
+    <string name="username_hint">Nom d\'utilisateur</string>
+    <style name="Base.Theme.Sudribet" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSurface">@color/surface_darker</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="android:windowBackground">@color/surface_darker</item>
+        <item name="android:statusBarColor">@color/surface_darker</item>
+        <item name="android:navigationBarColor">@color/surface_darker</item>
+    </style>
+    <style name="SlideTransition" parent="Theme.Sudribet">
+        <item name="android:windowAnimationStyle">@style/WindowAnimation.Slide</item>
+    </style>
+    <style name="Theme.Sudribet" parent="Base.Theme.Sudribet"/>
+    <style name="WindowAnimation.Slide" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_right</item>
+    </style>
+</resources>

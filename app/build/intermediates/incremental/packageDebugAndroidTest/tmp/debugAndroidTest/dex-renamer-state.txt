@@ -1,0 +1,13 @@
+#Fri Apr 03 21:49:53 CEST 2026
+base.0=/Users/expertjulian/Desktop/ESME_2025-2026/application_mobile/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/expertjulian/Desktop/ESME_2025-2026/application_mobile/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/Users/expertjulian/Desktop/ESME_2025-2026/application_mobile/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/1/classes.dex
+base.3=/Users/expertjulian/Desktop/ESME_2025-2026/application_mobile/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/9/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+path.3=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
